@@ -2,8 +2,6 @@
 
 ### I build software that turns ideas into useful, real-world solutions.
 
-[LinkedIn] • [Email] • [Portfolio]
-
 Computer Engineering student specializing in AI/ML, with a strong interest in
 software development, artificial intelligence, and building practical applications.
 I enjoy turning concepts into working projects — from AI-powered systems and
