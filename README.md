@@ -29,12 +29,6 @@ predict information about objects in space through a modern web interface.
 
 `Next.js` `React` `Tailwind CSS` `AI/ML`
 
-### 🖐️ Sign Language Recognition
-A computer-vision project that recognizes hand signs using real-time
-camera input and machine-learning techniques.
-
-`Python` `OpenCV` `MediaPipe` `TensorFlow`
-
 ### 🧠 BrainXAI
 An AI-powered student placement prediction system that uses machine
 learning to analyze student-related factors and predict placement outcomes.
@@ -44,11 +38,6 @@ learning to analyze student-related factors and predict placement outcomes.
 ---
 
 ## 🎯 Built for a Purpose
-
-### 📚 Mumbai University Question Paper Tool
-A utility designed to organize and rename university question papers
-into a clean and consistent structure, making academic resources easier
-to manage.
 
 ### ✈️ TripAdapt
 An intelligent travel-planning system that combines itinerary generation,
@@ -69,7 +58,7 @@ learning, and opportunities using modern Android technologies.
 
 **Languages**
 
-`Python` `Java` `JavaScript` `C` `SQL`
+`Python` `Java` `JavaScript` `C`
 
 **AI / ML**
 
