@@ -31,7 +31,7 @@ Python, Java, JavaScript, AI/ML, NLP, and full-stack development.
   </a>
   &nbsp;&nbsp;&nbsp;
   
-  <a href=".https://www.facebook.com/share/1DsVCJW1Pt/">
+  <a href="https://www.facebook.com/share/1DsVCJW1Pt/">
     <img src="https://cdn.simpleicons.org/facebook/1877F2" width="30" />
   </a>
 </p>
