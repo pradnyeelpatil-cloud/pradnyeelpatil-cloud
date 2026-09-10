@@ -55,7 +55,7 @@ Python, Java, JavaScript, AI/ML, NLP, and full-stack development.
 
 <!-- Snapchat -->
 <a href="https://www.snapchat.com/add/pradnyeelpatil?share_id=J-KgiOTEuYw&locale=en-IN">
-  <img src="https://cdn.simpleicons.org/snapchat/FFFC00" width="30" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/snapchat.svg" width="30" />
 </a>
 </p>
 
