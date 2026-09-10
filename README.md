@@ -10,16 +10,17 @@ web applications to automation tools and developer utilities.
 Currently learning, building, experimenting, and improving every day across
 Python, Java, JavaScript, AI/ML, NLP, and full-stack development.
 
----
 <p align="center">
-  <a href="https://linkedin.com/in/mobashshir-ahsan">
-    <img src="https://www.linkedin.com/in/pradnyeel-patil-3b4160321?utm_source=share_via&utm_content=profile&utm_medium=member_android" />
+  <a href="https://linkedin.com/in/pradnyeelpatil">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" />
   </a>
+
   <a href="mailto:mail.uni.pradnyeelpatil@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" />
   </a>
+
   <a href="https://instagram.com/pradnyeel_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="30" />
   </a>
 </p>
 
