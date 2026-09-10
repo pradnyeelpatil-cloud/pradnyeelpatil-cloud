@@ -11,6 +11,19 @@ Currently learning, building, experimenting, and improving every day across
 Python, Java, JavaScript, AI/ML, NLP, and full-stack development.
 
 ---
+<p align="center">
+  <a href="https://linkedin.com/in/mobashshir-ahsan">
+    <img src="https://www.linkedin.com/in/pradnyeel-patil-3b4160321?utm_source=share_via&utm_content=profile&utm_medium=member_android" />
+  </a>
+  <a href="mailto:mail.uni.pradnyeelpatil@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/pradnyeel_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
 
 ## 🚀 Featured Work
 
@@ -20,12 +33,6 @@ It helps travelers record expenses, track who paid what, calculate
 individual shares, and determine who needs to pay whom.
 
 `Python` `Flask` `SQLite` `JavaScript` `ReportLab`
-
-### 🛰️ SpaceGuardianAI
-An AI-based space-object prediction system designed to analyze and
-predict information about objects in space through a modern web interface.
-
-`Next.js` `React` `Tailwind CSS` `AI/ML`
 
 ### 🧠 BrainXAI
 An AI-powered student placement prediction system that uses machine
