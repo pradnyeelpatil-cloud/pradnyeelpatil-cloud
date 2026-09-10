@@ -34,6 +34,17 @@ Python, Java, JavaScript, AI/ML, NLP, and full-stack development.
   <a href="https://www.facebook.com/share/1DsVCJW1Pt/">
     <img src="https://cdn.simpleicons.org/facebook/1877F2" width="30" />
   </a>
+  &nbsp;&nbsp;&nbsp
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/9623092603">
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="30" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- YouTube -->
+  <a href="https://youtube.com/@pradnyeel">
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="30" />
 </p>
 
 
