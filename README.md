@@ -17,7 +17,7 @@ Python, Java, JavaScript, AI/ML, NLP, and full-stack development.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pradnyeel-patil-3b4160321">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" width="30" />
   </a>
   &nbsp;&nbsp;&nbsp;
   
