@@ -10,19 +10,32 @@ web applications to automation tools and developer utilities.
 Currently learning, building, experimenting, and improving every day across
 Python, Java, JavaScript, AI/ML, NLP, and full-stack development.
 
+
+
+
+
+
 <p align="center">
-  <a href="https://linkedin.com/in/pradnyeelpatil">
+  <a href="https://www.linkedin.com/in/pradnyeel-patil-3b4160321">
     <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" />
   </a>
-
+  &nbsp;&nbsp;&nbsp;
+  
   <a href="mailto:mail.uni.pradnyeelpatil@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" />
   </a>
-
+  &nbsp;&nbsp;&nbsp;
+  
   <a href="https://instagram.com/pradnyeel_">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" width="30" />
   </a>
+  &nbsp;&nbsp;&nbsp;
+  
+  <a href=".https://www.facebook.com/share/1DsVCJW1Pt/">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="30" />
+  </a>
 </p>
+
 
 ---
 
