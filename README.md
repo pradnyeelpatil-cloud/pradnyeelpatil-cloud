@@ -45,6 +45,18 @@ Python, Java, JavaScript, AI/ML, NLP, and full-stack development.
   <!-- YouTube -->
   <a href="https://youtube.com/@pradnyeel">
     <img src="https://cdn.simpleicons.org/youtube/FF0000" width="30" />
+ &nbsp;&nbsp;&nbsp
+
+  <!-- Telegram -->
+<a href="https://t.me/@Pradnyeel">
+  <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="30" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<!-- Snapchat -->
+<a href="https://www.snapchat.com/add/pradnyeelpatil?share_id=J-KgiOTEuYw&locale=en-IN">
+  <img src="https://cdn.simpleicons.org/snapchat/FFFC00" width="30" />
+</a>
 </p>
 
 
