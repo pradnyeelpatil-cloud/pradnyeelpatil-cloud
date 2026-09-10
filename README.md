@@ -21,7 +21,7 @@ Python, Java, JavaScript, AI/ML, NLP, and full-stack development.
   </a>
   &nbsp;&nbsp;&nbsp;
   
-  <a href="mailto:mail.uni.pradnyeelpatil@gmail.com">
+  <a href="mailto:pradnyeelpatil@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" />
   </a>
   &nbsp;&nbsp;&nbsp;
