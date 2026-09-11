@@ -25,9 +25,7 @@ Currently exploring Python, Java, JavaScript, AI/ML, NLP, and modern web technol
   &nbsp;&nbsp;&nbsp;  <a href="https://youtube.com/@pradnyeel">
     <img src="https://cdn.simpleicons.org/youtube/FF0000" width="30" />
   </a>
-</p>
-
----
+</p>---
 
 Featured Work
 
