@@ -45,6 +45,7 @@ Python, Java, JavaScript, AI/ML, NLP, and full-stack development.
   <!-- YouTube -->
   <a href="https://youtube.com/@pradnyeel">
     <img src="https://cdn.simpleicons.org/youtube/FF0000" width="30" />
+
  &nbsp;&nbsp;&nbsp
 
   <!-- Telegram -->
