@@ -1,5 +1,3 @@
-
-
 Pradnyeel Patil
 
 Computer Engineering Student | AI/ML Enthusiast | Software Developer
