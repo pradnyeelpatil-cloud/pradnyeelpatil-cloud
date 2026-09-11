@@ -1,4 +1,4 @@
-Hi, I'm Pradnyeel Patil 👋
+Hi, I'm Pradnyeel Patil 
 
 I build software that turns ideas into useful, real-world solutions.
 
@@ -29,66 +29,18 @@ Python, Java, JavaScript, AI/ML, NLP, and full-stack development.
 
 ---
 
-🚀 Featured Work
+Featured Work
 
-🌍 GroupTrip Ledger
+GroupTrip Ledger : A smart expense-management application designed for group trips.It helps travelers record expenses, track who paid what, calculateindividual shares, and determine who needs to pay whom.Python Flask SQLite JavaScript ReportLab
 
-A smart expense-management application designed for group trips.
-It helps travelers record expenses, track who paid what, calculate
-individual shares, and determine who needs to pay whom.
+BrainXAI : An AI-powered student placement prediction system that uses machinelearning to analyze student-related factors and predict placement outcomes.Python Flask Scikit-learn Random Forest
 
-Python Flask SQLite JavaScript ReportLab
+TripAdapt : An intelligent travel-planning system that combines itinerary generation,weather information, travel news, and risk analysis to create adaptivetravel experiences.FastAPI Python AI APIs
 
-🧠 BrainXAI
-
-An AI-powered student placement prediction system that uses machine
-learning to analyze student-related factors and predict placement outcomes.
-
-Python Flask Scikit-learn Random Forest
-
-
----
-
-🎯 Built for a Purpose
-
-✈️ TripAdapt
-
-An intelligent travel-planning system that combines itinerary generation,
-weather information, travel news, and risk analysis to create adaptive
-travel experiences.
-
-FastAPI Python AI APIs
-
-📱 SkillSync
-
-An Android application focused on helping users connect skills,
-learning, and opportunities using modern Android technologies.
-
+SkillSync : An Android application focused on helping users connect skills,learning, and opportunities using modern Android technologies.
 Java Android Studio Firebase
 
-Languages
-
-Python Java JavaScript C
-
-AI / ML
-
-Machine Learning NLP Generative AI TensorFlow
-Scikit-learn OpenCV MediaPipe
-
-Web & Backend
-
-HTML CSS JavaScript React Next.js
-Flask FastAPI Node.js
-
-Database & Tools
-
-MySQL SQLite Firebase Git GitHub
-VS Code Android Studio
-
-
 ---
-
-📈 What I'm Working On
 
 🤖 Building practical AI/ML applications
 
@@ -104,8 +56,3 @@ VS Code Android Studio
 
 🚀 Turning college projects into usable products
 
-
-
----
-
-Give me all this in a formal way no emojis no extra and make some new add some new and give me in formal way for my guitar profile you can change anything but it will be look nice sir and better I am Genie so make it like gen z
