@@ -1,91 +1,108 @@
-Pradnyeel Patil
+Hi, I'm Pradnyeel Patil 👋
 
-Computer Engineering Student | AI/ML Enthusiast | Software Developer
+I build software that turns ideas into useful, real-world solutions.
 
-I build practical software that turns ideas into useful, real-world solutions.
+Computer Engineering student specializing in AI/ML, with a strong interest in
+software development, artificial intelligence, and building practical applications.
+I enjoy turning concepts into working projects — from AI-powered systems and
+web applications to automation tools and developer utilities.
 
-I am a Computer Engineering student specializing in AI/ML, with an interest in software development, artificial intelligence, automation, and full-stack development. I enjoy turning concepts into working applications and continuously improving through hands-on projects.
+Currently learning, building, experimenting, and improving every day across
+Python, Java, JavaScript, AI/ML, NLP, and full-stack development.
 
-Currently exploring Python, Java, JavaScript, AI/ML, NLP, and modern web technologies.
+<p align="center">  
+  <a href="https://www.linkedin.com/in/pradnyeel-patil-3b4160321">  
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" width="30" />  
+  </a>  
+  &nbsp;&nbsp;&nbsp;    <a href="mailto:pradnyeelpatil@gmail.com">  
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" />  
+  </a>  
+  &nbsp;&nbsp;&nbsp;    <a href="https://instagram.com/pradnyeel_">  
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="30" />  
+  </a>  
+  &nbsp;&nbsp;&nbsp;    <!-- YouTube -->    <a href="https://youtube.com/@pradnyeel">  
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="30" />  
+  &nbsp;&nbsp;&nbsp  
+</p>  
+---
+
+🚀 Featured Work
+
+🌍 GroupTrip Ledger
+
+A smart expense-management application designed for group trips.
+It helps travelers record expenses, track who paid what, calculate
+individual shares, and determine who needs to pay whom.
+
+Python Flask SQLite JavaScript ReportLab
+
+🧠 BrainXAI
+
+An AI-powered student placement prediction system that uses machine
+learning to analyze student-related factors and predict placement outcomes.
+
+Python Flask Scikit-learn Random Forest
+
 
 ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pradnyeel-patil-3b4160321">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" width="30" />
-  </a>
-  &nbsp;&nbsp;&nbsp;  <a href="mailto:pradnyeelpatil@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" />
-  </a>
-  &nbsp;&nbsp;&nbsp;  <a href="https://instagram.com/pradnyeel_">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="30" />
-  </a>
-  &nbsp;&nbsp;&nbsp;  <a href="https://youtube.com/@pradnyeel">
-    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="30" />
-  </a>
-</p>---
+🎯 Built for a Purpose
 
-Featured Work
+✈️ TripAdapt
 
-GroupTrip Ledger
+An intelligent travel-planning system that combines itinerary generation,
+weather information, travel news, and risk analysis to create adaptive
+travel experiences.
 
-A group expense-management application that helps users track expenses, calculate individual shares, and manage settlements during trips.
+FastAPI Python AI APIs
 
-"Python" "Flask" "SQLite" "JavaScript" "ReportLab"
+📱 SkillSync
 
-BrainXAI
+An Android application focused on helping users connect skills,
+learning, and opportunities using modern Android technologies.
 
-An AI-powered application using machine learning to analyze assessment data and generate meaningful predictions and insights.
-
-"Python" "Flask" "Scikit-learn" "Random Forest"
-
----
-
-Built for a Purpose
-
-TripAdapt
-
-An intelligent travel-planning system combining itinerary generation, weather information, travel data, and risk analysis.
-
-"Python" "FastAPI" "AI" "APIs"
-
-SkillSync
-
-An Android application focused on connecting skills, learning, and opportunities through a modern mobile experience.
-
-"Java" "Android Studio" "Firebase"
-
----
-
-Tech Stack
+Java Android Studio Firebase
 
 Languages
 
-"Python" "Java" "JavaScript" "C"
+Python Java JavaScript C
 
 AI / ML
 
-"Machine Learning" "NLP" "Generative AI" "TensorFlow" "Scikit-learn" "OpenCV" "MediaPipe"
+Machine Learning NLP Generative AI TensorFlow
+Scikit-learn OpenCV MediaPipe
 
 Web & Backend
 
-"HTML" "CSS" "JavaScript" "React" "Next.js" "Flask" "FastAPI" "Node.js"
+HTML CSS JavaScript React Next.js
+Flask FastAPI Node.js
 
 Database & Tools
 
-"MySQL" "SQLite" "Firebase" "Git" "GitHub" "VS Code" "Android Studio"
+MySQL SQLite Firebase Git GitHub
+VS Code Android Studio
+
 
 ---
 
-Current Focus
+📈 What I'm Working On
 
-- Building practical AI/ML applications
-- Developing full-stack projects
-- Learning Generative AI and NLP
-- Strengthening Python, Java, and DSA
-- Exploring modern web technologies
-- Turning ideas into usable products
+🤖 Building practical AI/ML applications
+
+🌐 Developing full-stack projects
+
+🧠 Learning Generative AI and NLP
+
+☁️ Deploying and hosting real-world projects
+
+💻 Improving Java and Python
+
+📚 Strengthening Data Structures & Algorithms
+
+🚀 Turning college projects into usable products
+
+
 
 ---
 
-Learn. Build. Experiment. Improve.
+Give me all this in a formal way no emojis no extra and make some new add some new and give me in formal way for my guitar profile you can change anything but it will be look nice sir and better I am Genie so make it like gen z
