@@ -9,6 +9,7 @@ web applications to automation tools and developer utilities.
 
 Currently learning, building, experimenting, and improving every day across
 Python, Java, JavaScript, AI/ML, NLP, and full-stack development.
+
 ---
 
 <p align="center">  
