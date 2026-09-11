@@ -1,134 +1,93 @@
-# Hi, I'm Pradnyeel Patil 👋
-
-### I build software that turns ideas into useful, real-world solutions.
-
-Computer Engineering student specializing in AI/ML, with a strong interest in
-software development, artificial intelligence, and building practical applications.
-I enjoy turning concepts into working projects — from AI-powered systems and
-web applications to automation tools and developer utilities.
-
-Currently learning, building, experimenting, and improving every day across
-Python, Java, JavaScript, AI/ML, NLP, and full-stack development.
 
 
+Pradnyeel Patil
 
+Computer Engineering Student | AI/ML Enthusiast | Software Developer
 
+I build practical software that turns ideas into useful, real-world solutions.
 
+I am a Computer Engineering student specializing in AI/ML, with an interest in software development, artificial intelligence, automation, and full-stack development. I enjoy turning concepts into working applications and continuously improving through hands-on projects.
+
+Currently exploring Python, Java, JavaScript, AI/ML, NLP, and modern web technologies.
+
+---
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pradnyeel-patil-3b4160321">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" width="30" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-
-
-  
-  <a href="mailto:pradnyeelpatil@gmail.com">
+  &nbsp;&nbsp;&nbsp;  <a href="mailto:pradnyeelpatil@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-
-
-  
-  <a href="https://instagram.com/pradnyeel_">
+  &nbsp;&nbsp;&nbsp;  <a href="https://instagram.com/pradnyeel_">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" width="30" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  
-
-
-
-  <!-- YouTube -->
-  <a href="https://youtube.com/@pradnyeel">
+  &nbsp;&nbsp;&nbsp;  <a href="https://youtube.com/@pradnyeel">
     <img src="https://cdn.simpleicons.org/youtube/FF0000" width="30" />
-  &nbsp;&nbsp;&nbsp
-</p>
+  </a>
+</p>---
 
+Featured Work
 
----
+GroupTrip Ledger
 
-## 🚀 Featured Work
+A group expense-management application that helps users track expenses, calculate individual shares, and manage settlements during trips.
 
-### 🌍 GroupTrip Ledger
-A smart expense-management application designed for group trips.
-It helps travelers record expenses, track who paid what, calculate
-individual shares, and determine who needs to pay whom.
+"Python" "Flask" "SQLite" "JavaScript" "ReportLab"
 
-`Python` `Flask` `SQLite` `JavaScript` `ReportLab`
+BrainXAI
 
-### 🧠 BrainXAI
-An AI-powered student placement prediction system that uses machine
-learning to analyze student-related factors and predict placement outcomes.
+An AI-powered application using machine learning to analyze assessment data and generate meaningful predictions and insights.
 
-`Python` `Flask` `Scikit-learn` `Random Forest`
+"Python" "Flask" "Scikit-learn" "Random Forest"
 
 ---
 
-## 🎯 Built for a Purpose
+Built for a Purpose
 
-### ✈️ TripAdapt
-An intelligent travel-planning system that combines itinerary generation,
-weather information, travel news, and risk analysis to create adaptive
-travel experiences.
+TripAdapt
 
-`FastAPI` `Python` `AI` `APIs`
+An intelligent travel-planning system combining itinerary generation, weather information, travel data, and risk analysis.
 
-### 📱 SkillSync
-An Android application focused on helping users connect skills,
-learning, and opportunities using modern Android technologies.
+"Python" "FastAPI" "AI" "APIs"
 
-`Java` `Android Studio` `Firebase`
+SkillSync
 
----
+An Android application focused on connecting skills, learning, and opportunities through a modern mobile experience.
 
-## 🛠️ Tech Stack
-
-**Languages**
-
-`Python` `Java` `JavaScript` `C`
-
-**AI / ML**
-
-`Machine Learning` `NLP` `Generative AI` `TensorFlow`
-`Scikit-learn` `OpenCV` `MediaPipe`
-
-**Web & Backend**
-
-`HTML` `CSS` `JavaScript` `React` `Next.js`
-`Flask` `FastAPI` `Node.js`
-
-**Database & Tools**
-
-`MySQL` `SQLite` `Firebase` `Git` `GitHub`
-`VS Code` `Android Studio`
+"Java" "Android Studio" "Firebase"
 
 ---
 
-## 📈 What I'm Working On
+Tech Stack
 
-- 🤖 Building practical AI/ML applications
-- 🌐 Developing full-stack projects
-- 🧠 Learning Generative AI and NLP
-- ☁️ Deploying and hosting real-world projects
-- 💻 Improving Java and Python
-- 📚 Strengthening Data Structures & Algorithms
-- 🚀 Turning college projects into usable products
+Languages
 
----
+"Python" "Java" "JavaScript" "C"
 
-## 🎓 About Me
+AI / ML
 
-**Computer Engineering Student | AI/ML Enthusiast | Developer**
+"Machine Learning" "NLP" "Generative AI" "TensorFlow" "Scikit-learn" "OpenCV" "MediaPipe"
 
-I believe the best way to learn technology is to build with it.
+Web & Backend
 
-I'm continuously experimenting with new technologies, building projects,
-solving problems, and improving my development skills one project at a time.
+"HTML" "CSS" "JavaScript" "React" "Next.js" "Flask" "FastAPI" "Node.js"
+
+Database & Tools
+
+"MySQL" "SQLite" "Firebase" "Git" "GitHub" "VS Code" "Android Studio"
 
 ---
 
-### 💡 My Goal
+Current Focus
 
-> Learn. Build. Deploy. Improve. Repeat.
+- Building practical AI/ML applications
+- Developing full-stack projects
+- Learning Generative AI and NLP
+- Strengthening Python, Java, and DSA
+- Exploring modern web technologies
+- Turning ideas into usable products
 
-**Thanks for visiting my profile! 🚀**
+---
+
+Learn. Build. Experiment. Improve.
