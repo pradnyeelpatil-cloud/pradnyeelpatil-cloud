@@ -20,43 +20,28 @@ Python, Java, JavaScript, AI/ML, NLP, and full-stack development.
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" width="30" />
   </a>
   &nbsp;&nbsp;&nbsp;
+
+
   
   <a href="mailto:pradnyeelpatil@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" />
   </a>
   &nbsp;&nbsp;&nbsp;
+
+
   
   <a href="https://instagram.com/pradnyeel_">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" width="30" />
   </a>
   &nbsp;&nbsp;&nbsp;
   
-  <a href="https://www.facebook.com/share/1DsVCJW1Pt/">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="30" />
-  </a>
-  &nbsp;&nbsp;&nbsp
 
-  <!-- WhatsApp -->
-  <a href="https://wa.me/9623092603">
-    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="30" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
+
 
   <!-- YouTube -->
   <a href="https://youtube.com/@pradnyeel">
     <img src="https://cdn.simpleicons.org/youtube/FF0000" width="30" />
   &nbsp;&nbsp;&nbsp
-
-  <!-- Telegram -->
-<a href="https://t.me/@Pradnyeel">
-  <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="30" />
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<!-- Snapchat -->
-<a href="https://www.snapchat.com/add/pradnyeelpatil?share_id=J-KgiOTEuYw&locale=en-IN">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/snapchat.svg" width="30" />
-</a>
 </p>
 
 
