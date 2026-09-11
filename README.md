@@ -9,6 +9,7 @@ web applications to automation tools and developer utilities.
 
 Currently learning, building, experimenting, and improving every day across
 Python, Java, JavaScript, AI/ML, NLP, and full-stack development.
+---
 
 <p align="center">  
   <a href="https://www.linkedin.com/in/pradnyeel-patil-3b4160321">  
@@ -24,6 +25,7 @@ Python, Java, JavaScript, AI/ML, NLP, and full-stack development.
     <img src="https://cdn.simpleicons.org/youtube/FF0000" width="30" />  
   &nbsp;&nbsp;&nbsp  
 </p>  
+
 ---
 
 🚀 Featured Work
